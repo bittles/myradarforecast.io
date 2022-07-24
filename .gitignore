@@ -1,0 +1,7 @@
+*.pyc
+.coverage
+dist
+test.py
+MANIFEST
+build/
+python_forecastio.egg-info/
